@@ -1,8 +1,8 @@
 {
-  "name": "❤️DILSHAN❤️",
+  "name": "❤️𝐑_𝐎_𝐁_𝐈_𝐍❤️",
   "version": "0.1.2",
   "description": "A WhatsApp bot created using Node.js",
-  "main": "node.js",
+  "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name ❤️𝐑_𝐎_𝐁_𝐈_𝐍❤️",
     "stop": "pm2 stop ❤️𝐑_𝐎_𝐁_𝐈_𝐍❤️",
