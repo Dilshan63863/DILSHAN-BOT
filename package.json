@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@whiskeysockets/baileys": "^6.7.16",
-    "pino": "^9.6.0",
+    "pino": "^6.0.5",
     "pm2": "^5.4.3",
     "util": "^0.12.5",
     "express": "^4.21.2",
